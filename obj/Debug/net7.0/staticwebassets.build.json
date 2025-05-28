@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "lm+DZ2uU2Rug9ESaHXbKeyIUr5+CGGlxsAIEauJVJIg=",
+  "Hash": "rY8I+qdv0TnaukTFgz35yhW/AwFe85+DFfoP/Ze4njE=",
   "Source": "Static",
   "BasePath": "_content/Static",
   "Mode": "Default",
@@ -99,6 +99,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\fbautista\\source\\repos\\Static\\wwwroot\\imagenes\\Robot.gif",
+      "SourceId": "Static",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\fbautista\\source\\repos\\Static\\wwwroot\\",
+      "BasePath": "_content/Static",
+      "RelativePath": "imagenes/Robot#[.{fingerprint}]?.gif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "36ih9ku6n1",
+      "Integrity": "xbDTr43Lj4fD4EFTjK3JzxMr7X+rWGYrUORsYN1eadQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\Robot.gif"
     },
     {
       "Identity": "C:\\Users\\fbautista\\source\\repos\\Static\\wwwroot\\js\\site.js",
@@ -1333,8 +1354,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "m6t8iqaf5f",
-      "Integrity": "vp9Vkn7hYtpTSmV5xJXv6epAE+i/2c4oCsn5ez0YNfg=",
+      "Fingerprint": "ycyrlt6xco",
+      "Integrity": "TrCQKYq+q8KbCGxfKZcWpCm4hwEX5ktqV5L1zmznIEY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Static.html"
@@ -1502,6 +1523,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/Robot.36ih9ku6n1.gif",
+      "AssetFile": "C:\\Users\\fbautista\\source\\repos\\Static\\wwwroot\\imagenes\\Robot.gif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42114"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/gif"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xbDTr43Lj4fD4EFTjK3JzxMr7X+rWGYrUORsYN1eadQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 May 2025 20:04:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "36ih9ku6n1"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/Robot.gif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xbDTr43Lj4fD4EFTjK3JzxMr7X+rWGYrUORsYN1eadQ="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/Robot.gif",
+      "AssetFile": "C:\\Users\\fbautista\\source\\repos\\Static\\wwwroot\\imagenes\\Robot.gif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42114"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/gif"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xbDTr43Lj4fD4EFTjK3JzxMr7X+rWGYrUORsYN1eadQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 May 2025 20:04:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xbDTr43Lj4fD4EFTjK3JzxMr7X+rWGYrUORsYN1eadQ="
         }
       ]
     },
@@ -6399,7 +6502,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "122"
+          "Value": "133"
         },
         {
           "Name": "Content-Type",
@@ -6407,11 +6510,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"vp9Vkn7hYtpTSmV5xJXv6epAE+i/2c4oCsn5ez0YNfg=\""
+          "Value": "\"TrCQKYq+q8KbCGxfKZcWpCm4hwEX5ktqV5L1zmznIEY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 28 May 2025 17:45:32 GMT"
+          "Value": "Wed, 28 May 2025 17:47:08 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6421,52 +6524,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-vp9Vkn7hYtpTSmV5xJXv6epAE+i/2c4oCsn5ez0YNfg="
-        }
-      ]
-    },
-    {
-      "Route": "Static.m6t8iqaf5f.html",
-      "AssetFile": "C:\\Users\\fbautista\\source\\repos\\Static\\wwwroot\\Static.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "122"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"vp9Vkn7hYtpTSmV5xJXv6epAE+i/2c4oCsn5ez0YNfg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 28 May 2025 17:45:32 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "m6t8iqaf5f"
-        },
-        {
-          "Name": "label",
-          "Value": "Static.html"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-vp9Vkn7hYtpTSmV5xJXv6epAE+i/2c4oCsn5ez0YNfg="
+          "Value": "sha256-TrCQKYq+q8KbCGxfKZcWpCm4hwEX5ktqV5L1zmznIEY="
         }
       ]
     },
@@ -6504,6 +6562,51 @@
         {
           "Name": "integrity",
           "Value": "sha256-dc/Ml6m1qpOzQpsq3LcGb/UKzAZPz3TqmmGM5cRwMp4="
+        }
+      ]
+    },
+    {
+      "Route": "Static.ycyrlt6xco.html",
+      "AssetFile": "C:\\Users\\fbautista\\source\\repos\\Static\\wwwroot\\Static.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "133"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TrCQKYq+q8KbCGxfKZcWpCm4hwEX5ktqV5L1zmznIEY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 17:47:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ycyrlt6xco"
+        },
+        {
+          "Name": "label",
+          "Value": "Static.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TrCQKYq+q8KbCGxfKZcWpCm4hwEX5ktqV5L1zmznIEY="
         }
       ]
     }

@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\fbautista\\source\\repos\\Static\\wwwroot\\imagenes\\Robot.gif",
+      "PackagePath": "staticwebassets\\imagenes\\Robot.gif"
+    },
+    {
       "Id": "C:\\Users\\fbautista\\source\\repos\\Static\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

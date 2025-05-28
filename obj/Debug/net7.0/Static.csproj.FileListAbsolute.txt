@@ -32,3 +32,4 @@ C:\Users\fbautista\source\repos\Static\obj\Debug\net7.0\refint\Static.dll
 C:\Users\fbautista\source\repos\Static\obj\Debug\net7.0\Static.pdb
 C:\Users\fbautista\source\repos\Static\obj\Debug\net7.0\Static.genruntimeconfig.cache
 C:\Users\fbautista\source\repos\Static\obj\Debug\net7.0\ref\Static.dll
+C:\Users\fbautista\source\repos\Static\obj\Debug\net7.0\Static.sourcelink.json
